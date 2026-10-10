@@ -1,0 +1,41 @@
+/* div{
+    border: 2px dotted;
+    background-color: beige;
+    padding:  50px;
+    margin: 10px;s
+}
+
+h2{
+    text-align: center;
+    color: purple;
+    margin: 30px;
+
+}
+
+p{
+    color: black;
+} */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.student-card{
+    width: 500px;
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid;
+    margin: 10px;
+    text-align: center;
+}
+
+.student-container{
+    display: flex;
+
+}
+
+#main-heading{
+    text-align:center;
+    margin: 20px;
+}
